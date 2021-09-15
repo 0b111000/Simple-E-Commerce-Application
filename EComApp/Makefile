@@ -1,7 +1,7 @@
 CPP = g++
 FLAGS = -O5 -Wall -W
 RM = rm -f
-EXEC = FLIPKART
+EXEC = MyEComApp
 OBJECTS = main.o myflipkart.o item.o user.o
 
 all : $(OBJECTS) compile
