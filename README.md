@@ -5,4 +5,4 @@
 #### It is a pure console application that can be accessed via the command line.
 
 
-To use the application, just type 'make' and press enter in the terminal by changing your working directory to 'EComApp' after cloning the repo to your machine. This will compile all the files and generates you an executable which you can run directly from the terminal.
+To use the application, just type 'make' and press enter in the terminal by changing your working directory to 'EComApp' after cloning the repo to your machine. This will compile all the files and generates you an executable 'MyEComApp' which  can be run directly from the terminal (by typing ./MyEComApp in the terminal).
